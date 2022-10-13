@@ -61,7 +61,7 @@
         "@mdi/svg": "^7.0.96",
         "@popperjs/core": "^2.9.2",
         "@types/lodash-es": "^4.17.4",
-        "@types/marked": "^4.0.1",
+        "@types/marked": "^4.0.7",
         "bootstrap": "=5.0.2",
         "bootstrap-icons": "^1.4.0",
         "character-entities": "^2.0.2",
