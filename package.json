@@ -77,7 +77,7 @@
         "jquery": "^3.5.1",
         "jquery-ui-dist": "^1.12.1",
         "lodash-es": "^4.17.21",
-        "marked": "^4.0.0",
+        "marked": "^4.1.0",
         "mathjax": "^3.1.2",
         "protobufjs": "^6.11.3"
     },
