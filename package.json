@@ -79,7 +79,7 @@
         "lodash-es": "^4.17.21",
         "marked": "^4.0.0",
         "mathjax": "^3.1.2",
-        "protobufjs": "^6.11.3"
+        "protobufjs": "^7.2.4"
     },
     "resolutions": {
         "jsdoc/marked": "^4.0.0",
